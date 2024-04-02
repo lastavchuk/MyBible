@@ -1,11 +1,11 @@
 {
-  "url": "/lm.registry.json",
+  "url": "https://raw.githubusercontent.com/lastavchuk/MyBible/main/lm.registry.json",
   "file_name": "lm.registry.json",
   "description": "Модулі від Ластавчука Михайла",
   "modules":
   [
     {
-       "download_url": "PisniS'22.zip",
+       "download_url": "https://github.com/lastavchuk/MyBible/raw/main/PisniS'22.zip",
        "file_name": "PisniS'22.zip",
        "language_code": "uk",
        "description": "ПІСЕННИК Пісні спасенних обласної ради церков ХВЄ. Є українські та російські псалми. Чернівці, 2022",
